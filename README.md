@@ -6,9 +6,7 @@
 
 ## 서비스 바로가기
 
-[머니 문장 웹앱 열기](https://money-quote-daily.in-kwan.chatgpt.site)
-
-현재 서비스는 소유자 전용 비공개 상태이므로 접속 시 로그인이 필요할 수 있습니다.
+[GitHub Pages에서 머니 문장 웹앱 열기](https://saoj1104.github.io/goorm-20260826/)
 
 ## 주요 기능
 
